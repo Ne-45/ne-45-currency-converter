@@ -4,6 +4,7 @@
   "description": "This repository contains the code of currency converter",
   "main": "ne.js",
   "type": "module",
+  "bin": "ne.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
